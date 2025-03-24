@@ -1,4 +1,5 @@
-## Hi there 👋
+Hello,
+My name is Ierotheos and I am curently a student
 
 <!--
 **Ierotheos10/Ierotheos10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
